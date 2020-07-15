@@ -1,0 +1,19 @@
+{
+    "videos" : [{
+        "title": "Linux Admin Course",
+        "description" : "Video on Linux admin",
+        "link" : "https://www.youtube.com/channel/UCNnyXez3-1s06t8tkXuzY5g/playlists"
+    },
+    {
+        "title": "Windows Admin Course",
+        "description" : "Video on Windows admin",
+        "link" : "https://www.youtube.com/channel/UCNnyXez3-1s06t8tkXuzY5g/playlists"
+    },
+    {
+        "title": "Angular  Course",
+        "description" : "Video on Angular Dev",
+        "link" : "https://www.youtube.com/channel/UCNnyXez3-1s06t8tkXuzY5g/playlists"
+    }
+]   
+  
+}
