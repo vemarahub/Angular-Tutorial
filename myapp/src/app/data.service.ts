@@ -5,7 +5,7 @@ import {HttpClient } from '@angular/common/http';
   providedIn: 'root'
 })
 export class DataService {
-private FAKE_SERVICE_URL ="http://localhost:3000"
+private FAKE_SERVICE_URL ="/api/"
 
   constructor(private httpClient: HttpClient) { }
 
